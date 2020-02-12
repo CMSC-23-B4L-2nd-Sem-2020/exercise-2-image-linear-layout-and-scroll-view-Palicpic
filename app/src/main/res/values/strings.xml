@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">exer2_Palicpic_B4L</string>
+    <string name="start">Start</string>
+    <string name="retry">Retry</string>
+    <string name="question">Which Disney Princess are you?</string>
+    <string name="start_text">Click Start!</string>
+    <string name="anna_bio">You are
+        \n<b>Princess Anna</b>
+        \n Anna is more daring than graceful and, at times, can act before she thinks.
+        But she\'s also the most optimistic and caring person you\'ll ever meet. She longs to
+        reconnect with her sister Elsa, as they were close during their childhood. When Elsa
+        accidentally unleashes a magical secret that locks the kingdom of Arendelle in an eternal winter,
+        Anna embarks on a dangerous adventure to make things right. Armed with only her fearlessness,
+        a never-give-up attitude and her faith in others, Anna is determined to save both her kingdom and her family.
+        \n\n\nhttps://disney.fandom.com/wiki/Anna</string>
+    <string name="ariel_bio">You are
+        \n<b>Princess Ariel</b>
+         \n Ariel is an independent, headstrong and determined young mermaid. She is the youngest
+        and prettiest princess of the sea but spends most of her time outside the palace walls of
+        Atlantica singing, daydreaming, and adventuring with her best friend Flounder the guppy fish,
+        and sometimes Sebastian the crab who is also the royal adviser to Ariel\'s father. At the age
+        of 16, she unexpectedly becomes deeply infatuated with a young and handsome human prince named
+        Eric and sacrifices all things dear to her for the chance of being with her one true love.
+        \n\n\nhttps://disney.fandom.com/wiki/Ariel</string>
+    <string name="aurora_bio">You are
+        \n<b>Princess Aurora</b>
+        \n Aurora is gentle and loving, and is raised by three fairies named Flora, Fauna, and Merryweather.
+        She lives in the forest, where she meets the Prince, her one true love.
+        \n\n\nhttps://disney.fandom.com/wiki/Aurora</string>
+    <string name="belle_bio">You are
+        \n<b>Princess Belle</b>
+        \n Far-off places, daring sword fights, a prince in disguise, Belle longs for so much more than a "normal life"
+        in this small, provincial town - a town where girls don\'t aspire to more than marrying well. Still, adventure
+        is the last thing on her mind when she rides her horse, Philippe, into the forest to find her beloved father,
+        who is missing. Thinking only of her father, she makes a bargain with a Beast who holds her father captive in his castle.
+        Though the Beast now holds the key to Belle\'s prison, he doesn\'t have the key to her heart, and her yearning spirit
+        won\'t be kept prisoner. But after he risks his own life to save hers, she begins to see past his appearance.
+        She realizes that deep inside him there might be something more than she - or he - has ever dreamed.
+        \n\n\nhttps://disney.fandom.com/wiki/Belle</string>
+    <string name="cinderella_bio">You are
+        \n<b>Princess Cinderella</b>
+        \n Cinderella is kind to all, especially her mice friends, Jaq and Gus. She has faith that if you keep on believing,
+        your wish will come true. With help from her fairy godmother, she gets a chance to live her dreams.
+        \n\n\nhttps://disney.fandom.com/wiki/Cinderella_(character)</string>
+    <string name="elsa_bio">You are
+        \n<b>Princess Elsa</b>
+        \n From the outside, Elsa looks poised, regal, and reserved, but in reality, she lives in fear as she wrestles with a mighty secret
+        - she was born with the power to create ice and snow. It\'s a beautiful ability, but also extremely dangerous. Haunted by the moment
+        her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing
+        powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can\'t stop. She fears she\'s
+        becoming a monster and that no one, not even her sister, can help her.
+        \n\n\nhttps://disney.fandom.com/wiki/Elsa</string>
+    <string name="jasmine_bio">You are
+        \n<b>Princess Jasmine</b>
+        \n Jasmine is a dreamer who loves her pet tiger, Rajah. She\'s free-spirited, confident, and kind. When she meets Aladdin,
+        she discovers the wonders she\'s often imagined outside the palace walls.
+        \n\n\nhttps://disney.fandom.com/wiki/Jasmine</string>
+    <string name="moana_bio">You are
+        \n<b>Princess Moana</b>
+        \n Moana is the vibrant, tenacious and optimistic daughter of the Chief of Motunui,
+        thriving on her island but drawn to the ocean. When her island is threatened by a dark force,
+        Moana sets sail outside the reef and her comfort zone to right a wrong, save her people, and
+        find the answers she\'s been searching for her whole life.
+        \n\n\nhttps://disney.fandom.com/wiki/Moana_(character)</string>
+    <string name="mulan_bio">You are
+        \n<b>Mulan</b>
+        \n Fa Mulan is the titular protagonist of Disney\'s 1998 animated feature film of the same name. She is the strong-willed
+        and tenacious daughter of a war veteran, who strives to uphold her family\'s honor. When her father is called back into battle
+        to defend China from Shan Yu, Mulan opts to protect him by taking his place under the guise of a male soldier named Ping.
+        \n\n\nhttps://disney.fandom.com/wiki/Fa_Mulan</string>
+    <string name="rapunzel_bio">You are
+        \n<b>Princess Rapunzel</b>
+        \n Rapunzel may have lived her entire life locked inside a hidden tower, but Rapunzel is no damsel in distress.
+        The girl with the 70 feet of golden hair is an energetic, inquisitive teenager who fills her days with art, books,
+        and imagination. Rapunzel is full of curiosity about the outside world, and she can\'t help but feel that her true destiny
+        lies outside of the lonely tower walls. Rapunzel has always obeyed Mother Gothel by staying hidden away and keeping her
+        magical hair a secret but with her 18th birthday just a day away, she is fed up with her sheltered life and ready for
+        adventure. When a charming thief seeks refuge in her tower, Rapunzel defies Gothel and seizes the opportunity to
+        answer the call of the kingdom. With the unwilling Flynn Rider along for the journey, Rapunzel leaves the tower for
+        the first time, and begins a hilarious, hair-raising journey that will untangle many secrets along the way.
+        \n\n\nhttps://disney.fandom.com/wiki/Rapunzel</string>
+    <string name="snowwhite_bio">You are
+        \n<b>Princess Snow White</b>
+        \n Snow White was born into the royal family. Her mother died shortly after her birth. After some time, Snow White\'s father
+        remarried a vain and cold-hearted queen. Not long after their marriage, the King, Snow White\'s beloved father, suspiciously died,
+        leaving the young princess as an orphan.
+        \n\n\nhttps://disney.fandom.com/wiki/Snow_White</string>
+    <string name="tiana_bio">You are
+        \n<b>Princess Tiana</b>
+        \n Tiana dreams of opening her own restaurant. She works hard to try and make that dream come true.
+        In a twist of fate, she kisses a frog and goes on an adventure through the New Orleans bayou.
+        \n\n\nhttps://disney.fandom.com/wiki/Tiana</string>
+</resources>
